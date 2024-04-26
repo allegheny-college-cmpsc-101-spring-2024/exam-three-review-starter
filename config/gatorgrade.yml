@@ -1,0 +1,10 @@
+# perform checks on a file
+- questions/checklist.md:
+    - description: Ensure that the checklist.md file exists
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers, and rewrite comments for checklist.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true

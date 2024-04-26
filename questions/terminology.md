@@ -1,0 +1,179 @@
+# Terminology
+
+## Unit 1
+
+- [ ] variable
+- [ ] assignment
+- [ ] initialization
+- [ ] types
+- [ ] formatted strings
+- [ ] import statements
+- [ ] operators
+- [ ] conditional statements
+- [ ] built-in functions
+- [ ] IDE
+- [ ] approximation
+- [ ] floating point numbers
+- [ ] exhaustive enumeration
+- [ ] bisection search
+- [ ] formal parameter
+- [ ] actual parameter
+- [ ] argument
+- [ ] positional argument
+- [ ] keyword argument
+- [ ] function signature
+- [ ] type annotations
+- [ ] docstring
+- [ ] function call
+- [ ] return statement
+- [ ] point of execution
+- [ ] default parameter
+- [ ] scope
+- [ ] local variable
+- [ ] higher-order function
+- [ ] lambda function
+- [ ] delete TODO markers
+- [ ] fenced code block
+- [ ] inline code
+- [ ] lists
+- [ ] headings
+
+## Unit 2
+
+- tuple
+- iterable object
+- indexable object
+- list
+- mutable type
+- immutable type
+- aliasing
+- cloning
+- shallow copy
+- deep copy
+- value None
+- type NoneType
+- list comprehension
+- higher-order function
+- set
+- hashable type
+- dictionary
+- dictionary keys
+- dictionary values
+- recursion
+- base case
+- recursive case
+- progression of input
+- global variable
+- module
+- python package
+- python subpackage
+- python library
+- import statement
+- symbol
+- namespace
+- fully qualified name
+- standard Python library
+- dependencies
+- testing
+- pytest
+- debugging
+- test suite
+- partition of inputs
+- glass-box testing
+- black-box testing
+- static semantic error
+- exceptions
+- TypeError
+- IndexError
+- ValueError
+- RecursionError
+- assert statement
+- AssertionError
+- raising an exception
+- unhandled exception
+- handled exception
+- try-except construct
+- raise statement
+- object-oriented programming
+- abstract data type
+- class
+- class definition
+- methods
+- attribute
+- private
+- public
+- instance
+- \_\_ methods
+- magic (dunder) methods
+- inheritance
+- subclass
+- superclass
+- "IS A"
+- encapsulation
+- information hiding
+- polymorphism
+- overriding
+- dot notation
+- self convention
+- linting
+- ruff
+- profiler
+- code coverage
+- pytest
+- mypy
+
+## Unit 3
+
+- conceptual complexity
+- computational complexity
+- computational step
+- worst-case complexity
+- average-case complexity
+- Big O notation
+- growth functions
+- constant time
+- logarithmic time
+- linear time
+- log-linear time
+- polynomial time
+- quadratic time
+- exponential time
+- search algorithm
+- search space
+- pointer
+- amortized complexity
+- selection sort
+- divide and conquer algorithms
+- recursive base
+- merge sort
+- in-place sort
+- quicksort
+- timsort
+- hash table
+- hash function
+- many-to-one mapping collision
+- uniform distribution
+- hash bucket
+- optimization problem
+- objective function
+- set of constraints
+- knapsack problem
+- greedy algorithm
+- optimal solution
+- 0/1 knapsack problem
+- locally optimal
+- globally optimal
+- continuous knapsack problem graph
+- tree
+- graph
+- depth-first search
+- breadth-first search
+
+## Additional
+
+- [ ] git add .
+- [ ] git commit -m "Message"
+- [ ] git push origin main
+- [ ] gatorgrade --config config/gatorgrade
+- [ ] virtual environment
+- [ ] poetry run
