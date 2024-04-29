@@ -37,8 +37,10 @@ repository is a commitment to the latter.
 
 ## Cheat Sheet
 
-TWO sheets of paper filled with notes of your choice (front and back, 8.5x11)
-can be created prior to the exam and used while taking the exam.
+THREE sheets of paper filled with notes of your choice (front and back, 8.5x11)
+can be created prior to the exam and used while taking the exam. Only these three
+sheets of notes are permitted. Two, one, or zero of the three allowed sheets
+may be from a prior exam.
 
 ## Exam Timing
 
